@@ -5,10 +5,12 @@
 <br>
     <details open>
     <summary><h5>Step 1.1: Things to know in C++<h5></summary>
+        ```
         --> User Input / Output
         --> Data Types
         --> If Else statements
         --> Switch Statement
         --> What are arrays, strings?
+        ```
      </details>
 </details>

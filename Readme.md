@@ -4,11 +4,14 @@
 <details>
 <summary><h5>Step 1.1: Things to know in C++</h5></summary>
 
+***👇🏼Tasks Done on 19/04/2023👇🏼***
+  
 - [x] User Input / Output.
 - [x] Data Types.
-- [ ] If Else statements.
+- [x] If Else statements.
 - [x] Switch Statement.
-- [ ] What are arrays, strings?
+- [x] What are arrays, strings?  
+  
 
 </details>
 </details>

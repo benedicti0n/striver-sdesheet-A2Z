@@ -2,3 +2,7 @@
 
 ## Step 1: Basics:
 #### Step 1.1: Things to know in C++
+  --> User Input / Output
+####
+####
+####

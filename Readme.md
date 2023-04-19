@@ -7,13 +7,11 @@
   --> If Else statements
   --> Switch Statement
   --> What are arrays, strings?
-####
-####
-####
+
 
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary><h3>tep 1: Basics:<h3></summary>
 <br>
-Well, you asked for it!
+### Well, you asked for it!
 </details>
 

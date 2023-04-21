@@ -19,15 +19,16 @@
 
 - [x] Time complexity and Space Complexity.
 
-```
-*Time Complexity:-*
-    The valid algorithm takes a finite amount of time for execution. The time required by the algorithm to solve given problem is called time complexity  of the algorithm
-    ![Time complexity graph](/assets/Time%20Complexity%20Graph.png)
-*Space Complexity:-*
-    Problem-solving using computer requires memory to hold temporary data or final result while the program is in execution. The amount of memory required by the algorithm to solve given problem is called space complexity of the algorithm.
-```
-
-    ![Time complexity table](/assets/TIme%20Complexity%20Table.png)
+**👻Time Complexity:-**
+   - The valid algorithm takes a finite amount of time for execution. The time required by the algorithm to solve given problem is called time complexity  of the algorithm. 
+  
+  <p align="center">
+    <img src="/assets/Time%20Complexity%20Graph.png" width="300" height="300" hspace="20">
+    <img src="/assets/TIme%20Complexity%20Table.png" width="300" height="300" hspace="20">
+  </p>
+  
+**👻Space Complexity:-**
+   - Problem-solving using computer requires memory to hold temporary data or final result while the program is in execution. The amount of memory required by the algorithm to solve given problem is called space complexity of the algorithm.
 
 </details>
 </details>

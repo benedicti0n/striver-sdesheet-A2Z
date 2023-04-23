@@ -1,3 +1,9 @@
+/*
+1234
+123
+12
+1
+*/
 #include<iostream>
 using namespace std;
 

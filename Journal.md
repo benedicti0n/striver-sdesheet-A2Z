@@ -47,5 +47,19 @@
 - [x] 6. 12345/1234/123/12/1
 
 </details>
+
+***👇🏼Tasks Done on 23/04/2023👇🏼***
+
+<details>
+<summary><h5>🍄Star Patterns</h5></summary>
+
+- [x] 7. Star Triangle.
+- [x] 8. Inverted Star Triangle.
+- [x] 9. Diamond Star.
+- [x] 10. Half Diamond.
+- [x] 11. 1/01/101/0101/10101
+
+</details>
+
 </details>
 </details>

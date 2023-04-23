@@ -58,6 +58,9 @@
 - [x] 9. Diamond Star.
 - [x] 10. Half Diamond.
 - [x] 11. 1/01/101/0101/10101
+- [x] 12. Half Butterfly of Numbers.
+- [x] 13. Continuos Number Half Pyramid.
+- [x] 14. Half Pyramid of Alphabets.
 
 </details>
 

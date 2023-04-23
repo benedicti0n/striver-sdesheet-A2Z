@@ -1,8 +1,8 @@
 # 🌟[Striver SDE Sheet A2Z](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)🌟
 <details>    
-<summary><h3>🌻Step 1: Basics:</h3></summary>
+<summary><h2>🌻Step 1: Basics:</h3></summary>
 <details>
-<summary><h5>🍄Step 1.1: Things to know in C++</h5></summary>
+<summary><h3>🍄Step 1.1: Things to know in C++</h3></summary>
 
 ***👇🏼Tasks Done on 20/04/2023👇🏼***
   
@@ -19,7 +19,7 @@
 
 - [x] Time complexity and Space Complexity.
 <details>
-<summary><h5>🍄Notes on Time Space Complexity.</h5></summary>
+<summary><h5>👽Notes on Time Space Complexity.</h5></summary>
 
 **👻Time Complexity:-**
    - The valid algorithm takes a finite amount of time for execution. The time required by the algorithm to solve given problem is called time complexity  of the algorithm. 
@@ -37,7 +37,7 @@
 ***👇🏼Tasks Done on 22/04/2023👇🏼***
 
 <details>
-<summary><h5>🍄Star Patterns</h5></summary>
+<summary><h3>🍄Step 1.2 Star Patterns</h3></summary>
 
 - [x] 1. Square star pattern.
 - [x] 2. Half Pyramid(star).

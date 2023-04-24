@@ -64,5 +64,14 @@
 
 </details>
 
+<details>
+<summary><h5>🍄Star Patterns</h5></summary>
+
+- [x] 15. Inverted Alphabet Half Pyramid.
+- [x] 16. Half Pyramid Alphabet 2.
+- [x] 17. Alphabet Triangle.
+
+</details>
+
 </details>
 </details>

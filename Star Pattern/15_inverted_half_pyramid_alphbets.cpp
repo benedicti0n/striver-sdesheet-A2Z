@@ -1,15 +1,15 @@
 /*
-A
-AB
-ABC
 ABCD
+ABC
+AB
+A
 */
 #include<iostream>
 using namespace std;
 
 void my_pattern(int row){
     
-    for (int i = 1; i <= row; i++)
+    for (int i = row; i >= 1; i--)
     {
         char alphabet = 'A';
         for (int j = 1; j <= i; j++)
@@ -22,7 +22,7 @@ void my_pattern(int row){
 
 }
 void pattern(int row){
-    for (int i = 1; i <= row; i++)
+    for (int i = row; i >= 1; i--)
     {
         for (char j = 'A'; j <= 'A' + i - 1; j++)
         {

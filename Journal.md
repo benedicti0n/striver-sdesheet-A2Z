@@ -51,7 +51,7 @@
 ***👇🏼Tasks Done on 23/04/2023👇🏼***
 
 <details>
-<summary><h5>🍄Star Patterns</h5></summary>
+<summary><h5>Star Patterns</h5></summary>
 
 - [x] 7. Star Triangle.
 - [x] 8. Inverted Star Triangle.
@@ -64,12 +64,37 @@
 
 </details>
 
+***👇🏼Tasks Done on 24/04/2023👇🏼***
+
 <details>
-<summary><h5>🍄Star Patterns</h5></summary>
+<summary><h5>Star Patterns</h5></summary>
 
 - [x] 15. Inverted Alphabet Half Pyramid.
 - [x] 16. Half Pyramid Alphabet 2.
 - [x] 17. Alphabet Triangle.
+
+</details>
+
+***👇🏼Tasks Done on 24/04/2023👇🏼***
+
+<details>
+<summary><h5>Star Patterns</h5></summary>
+
+- [x] 18. Backwards Alphabet Half Triangle.
+- [x] 19. Hollow Diamond.
+- [x] 20. Butterfly Pattern.
+- [x] 21. Hollow Rectangle.
+- [x] 22. Layered Number Rectangle.
+
+</details>
+
+***👇🏼Tasks Done on 26/04/2023👇🏼***
+
+<details>
+
+<summary><h3>🍄Step 1.3 C++ STL</h3></summary>
+
+
 
 </details>
 

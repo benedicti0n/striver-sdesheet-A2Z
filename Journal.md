@@ -88,13 +88,19 @@
 
 </details>
 
-***👇🏼Tasks Done on 26/04/2023👇🏼***
+***👇🏼Tasks Done on 02/05/2023👇🏼***
 
 <details>
 
-<summary><h3>🍄Step 1.3 C++ STL</h3></summary>
+<summary><h3>🍄Step 1.4 Basic Maths</h3></summary>
 
-
+- [x] 1. Count Digit.
+- [x] 2. Reverse a Number.
+- [x] 3. Check Palindrom.
+- [x] 4. GCD or HCF.
+- [x] 5. Armstrong Numbers.
+- [x] 6. Print All Divisors.
+- [x] 7. Check for Prime.
 
 </details>
 

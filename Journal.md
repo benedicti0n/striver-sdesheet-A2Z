@@ -51,7 +51,7 @@
 ***👇🏼Tasks Done on 23/04/2023👇🏼***
 
 <details>
-<summary><h5>Star Patterns</h5></summary>
+<summary><h5>🤌🏼Star Patterns</h5></summary>
 
 - [x] 7. Star Triangle.
 - [x] 8. Inverted Star Triangle.
@@ -67,7 +67,7 @@
 ***👇🏼Tasks Done on 24/04/2023👇🏼***
 
 <details>
-<summary><h5>Star Patterns</h5></summary>
+<summary><h5>🤌🏼Star Patterns</h5></summary>
 
 - [x] 15. Inverted Alphabet Half Pyramid.
 - [x] 16. Half Pyramid Alphabet 2.
@@ -78,7 +78,7 @@
 ***👇🏼Tasks Done on 24/04/2023👇🏼***
 
 <details>
-<summary><h5>Star Patterns</h5></summary>
+<summary><h5>🤌🏼Star Patterns</h5></summary>
 
 - [x] 18. Backwards Alphabet Half Triangle.
 - [x] 19. Hollow Diamond.
@@ -101,6 +101,26 @@
 - [x] 5. Armstrong Numbers.
 - [x] 6. Print All Divisors.
 - [x] 7. Check for Prime.
+
+</details>
+
+***👇🏼Tasks Done on 05/05/2023👇🏼***
+
+<details>
+
+<summary><h3>🍄Step 1.5 Basic Recursion</h3></summary>
+
+- [x] 1. Print name N times using recursion.
+- [x] 2. Print 1 to N using recursion.
+- [x] 3. Print N to 1 using recursion
+<details>
+<summary><h5>Note:- </h5></summary>
+  
+  <p align="center">
+    <img src="/assets/Recursion%tree%basic.png" width="300" height="300" hspace="20">
+  </p>
+  
+</details>
 
 </details>
 

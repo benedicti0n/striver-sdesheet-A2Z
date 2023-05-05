@@ -16,19 +16,24 @@ void brute_prime(int n){
 }
 
 void prime(int n){
-    int count=0;
-
-    for (int i = 1; i <= sqrt(n); i++)
+    if (n == 0 || n == 1) {
+        cout << "not prime";
+        return;
+    }
+    else if (n == 2) {
+        cout << "prime";
+        return;
+    }
+    int count = 0;
+    for (int i = 3; i <= sqrt(n); i += 2)
     {
         if(n%i == 0) {
             count++;
             if ((n/i != i)) count++;    
         }
-
     }
     if (count==2) cout<<"prime";
     else cout<<"not prime";
-
 }
 
 int main(){

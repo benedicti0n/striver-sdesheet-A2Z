@@ -116,6 +116,21 @@
     <img src="/assets/sumofnumbersUsingFunctionalRecursion.png" width="300" height="300" hspace="20">
   </p>
 
- - [x] 6. [Factorial of N numbers]()
-  
+***👇🏼Tasks Done on 07/05/2023👇🏼***
+
+  - [x] 6. [Factorial of N numbers]()
+  - [x] 7. [Reverse an Array 2 Pointer]()
+  - [x] 8. [Reverse an Array 1 Pointer]()
+  - [x] 9. [Check Pallindrom or not]()
+ 
+</details>
+
+<details>
+<summary><h3>🍄Step 1.6 Basic Hashing</h3></summary>
+
+***👇🏼Tasks Done on 08/05/2023👇🏼***
+
+  - [x] Hashing Theory
+  - [x] Counting Frequencies of Array Elements.
+
 </details>

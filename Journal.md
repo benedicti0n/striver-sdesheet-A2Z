@@ -1,6 +1,6 @@
 # 🌟[Striver SDE Sheet A2Z](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)🌟
 <details>    
-<summary><h2>🌻Step 1: Basics:</h3></summary>
+<summary><h2>🌻Step 1: Basics</h3></summary>
 <details>
 <summary><h3>🍄Step 1.1: Things to know in C++</h3></summary>
 
@@ -132,5 +132,15 @@
 
   - [x] Hashing Theory
   - [x] Counting Frequencies of Array Elements.
+</details>
 
+</details>
+
+<details>
+<summary><h2>🌻Step 2: Sorting</h3></summary>
+
+***👇🏼Tasks Done on 18/05/2023👇🏼***
+
+  - [x] [Selection Sort.]()
+  - [x] [Counting Frequencies of Array Elements.]()
 </details>

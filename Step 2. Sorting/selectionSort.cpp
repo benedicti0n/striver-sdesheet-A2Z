@@ -8,20 +8,18 @@ void selectionSort(int arr[], int n){
 
     for (int i = 0; i <= n-2; i++)
     {
-        int mini = i;
-        for (int j = i; j <= n-1; j++)
-        {
-            if (arr[j]<arr[mini])
-            {
-                mini = j;
-            }
-            
-        }
-        int temp;
 
-        temp = arr[i];
-        arr[i] = arr[mini];
-        arr[mini] = temp;
+        int miniIndex = i;
+
+        for (int j = i+1; j < n-1; j++)
+        {
+            if (arr[j] < arr[miniIndex])
+            {
+                miniIndex = j;
+            }   
+        }
+        swap(arr[miniIndex], arr[i]);
+        
     }
     
 

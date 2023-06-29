@@ -143,4 +143,9 @@
 
   - [x] [Selection Sort.]()
   - [x] [Counting Frequencies of Array Elements.]()
+
+  ***👇🏼Tasks Done on 29/06/2023👇🏼***
+
+  - [x] [Bubble Sort.]()
+
 </details>
